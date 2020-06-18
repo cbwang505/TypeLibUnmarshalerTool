@@ -1,0 +1,6 @@
+E:\svn\ProjectHome\ComProfile\bin\Debug\ComProfile.exe.config
+E:\svn\ProjectHome\ComProfile\bin\Debug\ComProfile.exe
+E:\svn\ProjectHome\ComProfile\bin\Debug\ComProfile.pdb
+E:\svn\ProjectHome\ComProfile\obj\Debug\ComProfile.csproj.CoreCompileInputs.cache
+E:\svn\ProjectHome\ComProfile\obj\Debug\ComProfile.exe
+E:\svn\ProjectHome\ComProfile\obj\Debug\ComProfile.pdb
